@@ -62,5 +62,12 @@ public class Test {
 
         System.out.println(stockPlan.grantStock(executiveEng));
 
+//        Employee bestEmployee = new Director(name = "Ayooluwa", iD = 1001, salary = 50000, ssn = "good_guy", taxId = 432, carType = "Ford");
+//
+//        System.out.println(bestEmployee);
+//
+//        Director bestDirector = (Director) new Employee(name = "Oluwaseyi", iD = 2002, salary = 400000, ssn = "great_guy");
+
+
     }
 }
